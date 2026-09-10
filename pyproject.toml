@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retailpulse_omnichannel_ecommerce_analytics"
+version = "1.0.0"
+description = "Omnichannel E-Commerce & Retail Supply Chain Intelligence Suite featuring RFM Customer Segmentation, Cohort Retention, and Inventory SLA Analytics."
+readme = "README.md"
+authors = [
+    { name = "Abdussatar", email = "satarabdus692@gmail.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Information Analysis"
+]
